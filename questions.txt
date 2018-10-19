@@ -1,0 +1,21 @@
+finadv.pl :
+
+	The Logic based financial advisor explained in section 2.4 of the text book "Artificial Intelligence Structures and Strategies for state space search by George F Luger" 
+
+famtree.pl :
+	
+	Please prepare a prolog program that can answer queries related to your family details. (Father, Mother,Brother, Sister,Sibling, Cousin, Uncle, Aunt, Paternal grandparents, maternal Grandfather, ancestor, Descendant are the expected queries).
+	You should also upload a document that explains your family tree and the set of axioms in first-order predicate calculus that explains the relations used. (check familytreespecification and My-family files)
+
+vehicledb.pl :
+
+	Implement a semantic network using PROLOG that can represent the  concept " Vehicle". 
+	Your network should be able to give  answers to queries similar to the following questions. 
+	a) How many wheels does a cycle have? 
+	b) Can a car travel in ocean? 
+	c) What is the colour of auto rikshaw? 
+	d)Can an electric train travel on the road? 
+	e) How many persons can travel in a motor cycle? 
+	f)What is the mileage of an Innova? 
+	(These are only some sample questions. You have the freedom to decide your domain. But it should be sufficiently large answer similar questions.)
+
