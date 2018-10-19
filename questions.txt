@@ -19,3 +19,6 @@ vehicledb.pl :
 	f)What is the mileage of an Innova? 
 	(These are only some sample questions. You have the freedom to decide your domain. But it should be sufficiently large answer similar questions.)
 
+roomdb.pl :
+
+	check roomdb.docx
